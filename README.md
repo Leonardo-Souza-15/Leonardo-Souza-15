@@ -1,6 +1,6 @@
 # 👦 Leonardo Souza
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Front-end`**
 
 Me chamo Leonardo tenho 22 anos natural da Bahia, comecei a minha vida na progamação logo novo aos 16 anos e desde então não parei mais ed programar, atualmente trabalho numa empresa do ramo esportivo de calçados com a função deauxiliar de estoques.
 
